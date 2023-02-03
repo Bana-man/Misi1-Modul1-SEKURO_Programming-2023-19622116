@@ -21,3 +21,6 @@ $ git push -u origin master
 ## REFERENSI GITIGNORE
 - [Github gitignore](github.com/github/gitignore)
 - [gitignore.io](gitignore.io)
+
+## DOKUMENTASI
+![](/Dokumentasi/Video12.jpg)
